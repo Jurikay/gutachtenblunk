@@ -1,0 +1,74 @@
+/*
+	Prologue by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+	#header2 nav > ul > li {
+					display: inline-block;
+					padding: 0em 0.6em;
+				}
+				
+				#header2 nav > ul > li a {
+					padding: 0em 0.3em;
+					}
+/*********************************************************************************/
+/* Basic                                                                         */
+/*********************************************************************************/
+
+	body,input,textarea,select
+	{
+		font-size: 16pt;
+	}
+
+	.container
+	{
+		padding: 0 1em 0 1em;
+	}
+
+	/* List */
+
+		ul
+		{
+		}
+
+			ul.icons
+			{
+			}	
+			
+				ul.icons li
+				{
+				}
+
+				ul.icons li a
+				{
+					width: 1.75em;
+				}
+
+	/* Item */
+	
+		.item
+		{
+			margin-bottom: 20px;
+		}
+ #main > section.cover 
+			{
+				font-size: 20pt;
+			}
+/*********************************************************************************/
+/* Header                                                                        */
+/*********************************************************************************/
+
+	#header
+	{
+		width: 20%;
+	}
+
+	#logo
+	{
+	}
+	
+		#logo .image
+		{
+			position: relative;
+			margin: 0 0 0.5em 0;
+		}
